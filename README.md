@@ -48,4 +48,12 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 
 ---
-💡 *For a detailed look at our data schema structure, check out our full [Data Dictionary](docs/data_dictionary.md).*
+# 🛠️ Important Links & Tools:
+
+Everything is for Free!
+
+* **Datasets:** Access to the project dataset (.csv files).
+* **SQL Server Express:** Lightweight server for hosting your SQL database.
+* **SQL Server Management Studio (SSMS):** GUI for managing and interacting with databases.
+* **Git Repository:** Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
+* **Draw.io:** Design data architecture, models, flows, and diagrams.
