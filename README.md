@@ -48,10 +48,10 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 
 ---
-# 🛠️ Important Links & Tools:
+### 🛠️ Important Links & Tools
 
-* **Datasets:** Access to the project dataset (.csv files).
-* **SQL Server Express:** Lightweight server for hosting your SQL database.
-* **SQL Server Management Studio (SSMS):** GUI for managing and interacting with databases.
-* **Git Repository:** Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
-* **Draw.io:** Design data architecture, models, flows, and diagrams.
+*   **Datasets:** Access to the project dataset (.csv files) stored directly in this repository.
+*   **[SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads):** Lightweight server for hosting your SQL database.
+*   **[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms):** GUI for managing and interacting with databases.
+*   **GitHub:** Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
+*   **Draw.io:** Design data architecture, models, flows, and diagrams.
